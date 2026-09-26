@@ -44,11 +44,6 @@ Screenshots will be added to the `screenshots/` folder to illustrate:
 - Kubernetes manifests:
   - `nginxexternal.yaml`
   - `nginxinternal.yaml`
-- Custom scripts in the `scripts/` folder for:
-  - ACR provisioning
-  - Docker build/push automation
-  - AKS deployment
-  - Workload deployment
 
 ## 📎 References
 

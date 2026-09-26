@@ -1,2 +1,9 @@
-# azure-certifications
-Collection of Microsoft Azure certification labs, practical exercises, documentation, screenshots, and automation scripts. This repository serves as a personal knowledge base covering Azure Security, Identity, Infrastructure, Architecture, Governance, and Cloud Operations.
+# Azure Certifications
+
+This repository centralizes my hands-on Microsoft Azure learning journey through certification labs, technical documentation, scripts, screenshots, and implementation notes.
+
+## Certifications
+
+- AZ-500 | Azure Security Engineer Associate
+
+Additional certifications and learning paths will be added over time.
